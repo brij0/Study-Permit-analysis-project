@@ -15,8 +15,8 @@
 - [Tests](#tests)
 - [License](#license)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/brij0/Power-BI-Canada-Study-Permit-analysis?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/brij0/Power-BI-Canada-Study-Permit-analysis?style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/brij0/Study-Permit-analysis-project?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/brij0/Study-Permit-analysis-project?style=plastic)
 
 ## Description
 
@@ -44,7 +44,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/brij0/Power-BI-Canada-Study-Permit-analysis.git
+    git clone https://github.com/brij0/Study-Permit-analysis-project.git
     ```
 
 2. **Navigate to the project directory**:
